@@ -1,0 +1,14 @@
+# VSCode ignores
+.vscode
+
+# build directory ignores
+**/[Bb]uild*
+
+# additional ignores
+[Dd]ata
+[Tt]ests
+
+# Python ignores
+**/__pycache__
+**/*.egg-info
+**/.venv
